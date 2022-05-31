@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x171922C2f8C64c266584aD8593756CB2348110b4",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6012e79378bf1ffff53b3ff68c45e25a1f133618",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BaD Newz Bears",
+  "SYMBOL": "BNB",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 5906000000000000,
+  "DISPLAY_COST": 18,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/badnewzbears-v2",
+  "SHOW_BACKGROUND": true
+}
